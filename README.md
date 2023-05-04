@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minezeratul</h1>
 <h3 align="center">What's past is prologue</h3>
 
-- 🔭 I’m currently working on **11408**
+- 🔭 I’m currently learning **Springboot**
 
-- 🌱 I’m currently learning **Springboot**
-
-- 👯 I’m looking to collaborate on **SZU**
+- 📖 I’m preparing for my further study
 
 - 💬 Ask me about **Java , Algoriths , Leetcode**
 
